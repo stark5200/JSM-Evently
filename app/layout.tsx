@@ -12,6 +12,9 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Evently",
   description: "Event management platform",
+  icons: {
+    icon: '/assets/images/logo.svg'
+  }
 };
 
 export default function RootLayout({
