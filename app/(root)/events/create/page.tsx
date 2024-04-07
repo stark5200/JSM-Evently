@@ -1,6 +1,8 @@
 const CreateEvent = () => {
   return (
-    <section></section>
+    <section>
+      Connected with mac
+    </section>
   )
 }
 
